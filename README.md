@@ -4,8 +4,6 @@
 
 opus0 - quiero puro is a composition by [Aarón Montoya-Moraga](http://montoyamoraga.io/)
 
-
-
 opus 0 was premiered on July 7th 2018 as a physical installation, at the Liminal Instruments exhibit.
 
 ## Technical details
@@ -20,7 +18,12 @@ opus0 - quiero puro is made out of:
 * 1x [Moog Minitaur](https://www.moogmusic.com/products/taurus/minitaur): analog bass synth, 9V center-positive power supply
 * 1x [Roland TR-09](https://www.roland.com/global/products/tr-09/): drum machine, micro USB power supply
 * 1x [Focusrite Scarlett 18i20](https://us.focusrite.com/usb-audio-interfaces/scarlett-18i20): audio interface, NEMA connector
-* 4x [Hosa MID-310RD](http://hosatech.com/product/mid-300rd/): 5-pin MIDI DIN 10 feet cables
+* 4x [Hosa MID-310RD](http://hosatech.com/product/mid-300rd/): 5-pin MIDI DIN 10 feet cable
+
+## Signal flow
+
+![signal flow text](https://github.com/montoyamoraga/opus0-quiero-puro/raw/master/assets/opus0-signal-flow.png "opus0 signal flow")
+
 
 
 ## License
